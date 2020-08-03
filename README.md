@@ -5,5 +5,5 @@ Front end files of Fortune Cookie
 npm install
 
 
-#to start the server
+# to start the server
 npm start
